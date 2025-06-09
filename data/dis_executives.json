@@ -1,0 +1,378 @@
+{
+    "Robert A. Iger": {
+        "title": "Chief Executive Officer",
+        "reports_to": null,
+        "direct_reports": [
+            "Hugh F. Johnston",
+            "Christine M. McCarthy",
+            "Horacio Gutierrez",
+            "Sonia Coleman",
+            "Rebecca Campbell"
+        ],
+        "bio": "Robert A. Iger is the Chief Executive Officer of The Walt Disney Company. He previously served as Executive Chairman from 2020 to 2022, and as Chairman and Chief Executive Officer from 2005 to 2020.",
+        "role_tag": "CEO",
+        "shares": 100
+    },
+    "Hugh F. Johnston": {
+        "title": "Chief Financial Officer",
+        "reports_to": "Robert A. Iger",
+        "direct_reports": [
+            "Treasurer",
+            "Controller"
+        ],
+        "bio": "Hugh F. Johnston is the Chief Financial Officer of The Walt Disney Company, overseeing the company's worldwide finance organization, including controllership, tax, treasury, corporate strategy and business development, investor relations, and enterprise controllership.",
+        "role_tag": "C",
+        "shares": 100
+    },
+    "Christine M. McCarthy": {
+        "title": "Chief Operating Officer",
+        "reports_to": "Robert A. Iger",
+        "direct_reports": [
+            "Josh D'Amaro",
+            "Jimmy Pitaro",
+            "Alan F. Horn"
+        ],
+        "bio": "Christine M. McCarthy is the Chief Operating Officer of The Walt Disney Company, responsible for the company's operations across all business segments.",
+        "role_tag": "C",
+        "shares": 100
+    },
+    "Horacio Gutierrez": {
+        "title": "Chief Corporate Affairs Officer & Chief Legal Officer",
+        "reports_to": "Robert A. Iger",
+        "direct_reports": [
+            "Government Relations",
+            "Corporate Communications",
+            "Corporate Social Responsibility",
+            "Legal Operations",
+            "Compliance",
+            "Intellectual Property"
+        ],
+        "bio": "Horacio Gutierrez serves as both Chief Legal Officer and Chief Corporate Affairs Officer, overseeing government relations, corporate communications, corporate social responsibility, and all legal matters for the company.",
+        "role_tag": "C",
+        "shares": 100
+    },
+    "Sonia Coleman": {
+        "title": "Chief Human Resources Officer",
+        "reports_to": "Robert A. Iger",
+        "direct_reports": [
+            "Talent Acquisition",
+            "Learning & Development",
+            "Compensation & Benefits"
+        ],
+        "bio": "Sonia Coleman is the Chief Human Resources Officer of The Walt Disney Company, responsible for all aspects of human resources management.",
+        "role_tag": "C",
+        "shares": 100
+    },
+    "Rebecca Campbell": {
+        "title": "Chief Content Officer",
+        "reports_to": "Robert A. Iger",
+        "direct_reports": [
+            "Content Strategy",
+            "Content Operations",
+            "Content Distribution"
+        ],
+        "bio": "Rebecca Campbell is the Chief Content Officer of The Walt Disney Company, responsible for content strategy and operations across all platforms.",
+        "role_tag": "C",
+        "shares": 100
+    },
+    "Josh D'Amaro": {
+        "title": "Chairman, Disney Parks, Experiences and Products",
+        "reports_to": "Christine M. McCarthy",
+        "direct_reports": [
+            "Alannah Hall-Smith",
+            "Bruce E Vaughn",
+            "Douglas Leckie",
+            "Jeffrey N Vahle",
+            "Jill Estorino",
+            "Joseph F Schott",
+            "Judy Terry",
+            "Kenneth M Potrock",
+            "Kevin A Lansberry",
+            "Lisa S Becket",
+            "Tami L Garcia",
+            "Tasia Filippatos",
+            "Thomas Mazloum"
+        ],
+        "bio": "Josh D'Amaro leads Disney's theme parks, resorts, cruise line, and consumer products businesses worldwide.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Alannah Hall-Smith": {
+        "title": "EVP-Communications & Public Affairs",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Alannah Hall-Smith leads communications and public affairs for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Bruce E Vaughn": {
+        "title": "President & Chief Creative Officer",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Bruce E Vaughn serves as President & Chief Creative Officer for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Douglas Leckie": {
+        "title": "EVP - Chief Digital & Technology Officer",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Douglas Leckie leads digital and technology initiatives for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Jeffrey N Vahle": {
+        "title": "President Walt Disney World Resort",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Jeff Vahle serves as President of Walt Disney World Resort, overseeing all operations of the world's largest theme park resort.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Jill Estorino": {
+        "title": "Pres & Managing Dir, Disney Parks Intl",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Jill Estorino leads Disney Parks International, overseeing international theme park operations.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Joseph F Schott": {
+        "title": "President Disney Signature Experiences",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [
+            "Barry Compagnoni",
+            "Brian Ruppe",
+            "Claire L Bilby",
+            "Joseph Rand (Joe)",
+            "Sharon D Siskie",
+            "Stephanie W Young"
+        ],
+        "bio": "Joe Schott leads Disney Signature Experiences, including Disney Cruise Line and Disney Vacation Club.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Barry Compagnoni": {
+        "title": "VP-Safety, Compliance & Med Ops",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [],
+        "bio": "Barry Compagnoni oversees safety, compliance, and medical operations for Disney Signature Experiences.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Brian Ruppe": {
+        "title": "Director, Quality & Process Improvement",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [],
+        "bio": "Brian Ruppe is Director of Quality & Process Improvement for Disney Signature Experiences.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Claire L Bilby": {
+        "title": "SVP & GM-DSE Emerging Businesses",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [],
+        "bio": "Claire L Bilby is SVP & GM of DSE Emerging Businesses.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Joseph Rand (Joe)": {
+        "title": "SVP - Commercial Strategy",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [
+            "Carrine Matson (Carrie)",
+            "Jay S Roesch",
+            "Kim A Engilis",
+            "Maria D Fabregat",
+            "Tina Erlhoff"
+        ],
+        "bio": "Joseph Rand (Joe) is SVP of Commercial Strategy for Disney Signature Experiences.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Carrine Matson (Carrie)": {
+        "title": "VP-Marketing & Distribution Strategy",
+        "reports_to": "Joseph Rand (Joe)",
+        "direct_reports": [],
+        "bio": "Carrine Matson (Carrie) is VP of Marketing & Distribution Strategy.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Jay S Roesch": {
+        "title": "VP-Pricing, Revenue Management, Deployment & Itinerary Planning",
+        "reports_to": "Joseph Rand (Joe)",
+        "direct_reports": [
+            "Bobby A Filipski",
+            "Bridgette E Lahens",
+            "Dan C Burklew",
+            "Harold Quesada",
+            "Jared Wacksman",
+            "Kayla L Aplin",
+            "LORENA HICKS",
+            "Martha A Rule"
+        ],
+        "bio": "Jay S Roesch is VP of Pricing, Revenue Management, Deployment & Itinerary Planning.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Kim A Engilis": {
+        "title": "Admin Assistant",
+        "reports_to": "Joseph Rand (Joe)",
+        "direct_reports": [],
+        "bio": "Kim A Engilis is Admin Assistant to Joseph Rand (Joe).",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Maria D Fabregat": {
+        "title": "VP-Customer & Trade Experience",
+        "reports_to": "Joseph Rand (Joe)",
+        "direct_reports": [],
+        "bio": "Maria D Fabregat is VP of Customer & Trade Experience.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Tina Erlhoff": {
+        "title": "Dir, Product Strategy & Planning",
+        "reports_to": "Joseph Rand (Joe)",
+        "direct_reports": [],
+        "bio": "Tina Erlhoff is Director of Product Strategy & Planning.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Bobby A Filipski": {
+        "title": "Mgr Pricing & Promotions DVC",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Bobby A Filipski is Manager of Pricing & Promotions DVC.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "Bridgette E Lahens": {
+        "title": "Sr Mgr-Revenue Mgmt",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Bridgette E Lahens is Senior Manager of Revenue Management.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "Dan C Burklew": {
+        "title": "Exec Director, Pricing & Revenue Management DCL",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Dan C Burklew is Executive Director of Pricing & Revenue Management DCL.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Harold Quesada": {
+        "title": "Sr Mgr Deployment Planning & Strategy",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Harold Quesada is Senior Manager of Deployment Planning & Strategy.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "Jared Wacksman": {
+        "title": "Mgr-Pricing Strategy & Integration DVC",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Jared Wacksman is Manager of Pricing Strategy & Integration DVC.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "Kayla L Aplin": {
+        "title": "Pricing & Revenue Mgmt Mgr A&E",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Kayla L Aplin is Pricing & Revenue Management Manager A&E.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "LORENA HICKS": {
+        "title": "Pricing & Revenue Mgmt Mgr A&E",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "LORENA HICKS is Pricing & Revenue Management Manager A&E.",
+        "role_tag": "M",
+        "shares": 100
+    },
+    "Martha A Rule": {
+        "title": "Admin Assistant",
+        "reports_to": "Jay S Roesch",
+        "direct_reports": [],
+        "bio": "Martha A Rule is Admin Assistant to Jay S Roesch.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Sharon D Siskie": {
+        "title": "SVP & GM, Disney Cruise Line",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [],
+        "bio": "Sharon D Siskie is SVP & GM of Disney Cruise Line.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Stephanie W Young": {
+        "title": "President, Disney Vacation Club, Adventures & Expeditions, and Disney Institute",
+        "reports_to": "Joseph F Schott",
+        "direct_reports": [],
+        "bio": "Stephanie W Young is President of Disney Vacation Club, Adventures & Expeditions, and Disney Institute.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Judy Terry": {
+        "title": "Sr. Exec Assistant – Office of the Chairman, Disney Experiences",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Judy Terry serves as Senior Executive Assistant in the Office of the Chairman for Disney Experiences.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Kenneth M Potrock": {
+        "title": "President, TWDC Major Events Integration",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Ken Potrock leads major events integration for The Walt Disney Company.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Kevin A Lansberry": {
+        "title": "EVP & CFO",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Kevin Lansberry serves as Executive Vice President and Chief Financial Officer for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Lisa S Becket": {
+        "title": "EVP-Global Marketing",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Lisa Becket leads global marketing for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Tami L Garcia": {
+        "title": "EVP-Human Resources",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Tami Garcia leads human resources for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Tasia Filippatos": {
+        "title": "President CPGP (DIESI)",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Tasia Filippatos leads Consumer Products, Games and Publishing for Disney Parks, Experiences and Products.",
+        "role_tag": "E",
+        "shares": 100
+    },
+    "Thomas Mazloum": {
+        "title": "President Disneyland Resort",
+        "reports_to": "Josh D'Amaro",
+        "direct_reports": [],
+        "bio": "Thomas Mazloum serves as President of Disneyland Resort, overseeing all operations of the original Disney theme park resort.",
+        "role_tag": "E",
+        "shares": 100
+    }
+} 
