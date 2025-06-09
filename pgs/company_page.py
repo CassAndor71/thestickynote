@@ -8,9 +8,6 @@ import json
 import os
 import pandas as pd
 
-# Set page to full width
-st.set_page_config(layout="wide")
-
 def format_large_number(num):
     """Format large numbers into K, M, B format."""
     if num >= 1e9:
@@ -200,7 +197,9 @@ def show_company_page():
     if 'role' not in st.session_state:
         st.error("Role not selected. Please return to the home page.")
         return
-
+    if st.button("<- Company Selection"):
+        st.session_state['page'] = 'home'
+        st.rerun()
     st.title(f"📝 {st.session_state['company_name']} ({st.session_state['selected_company']})")
     # st.caption(f"Role: {st.session_state['role']}")
     
@@ -363,7 +362,4 @@ def show_company_page():
     # Add button to jump to executive_detail.py
     if st.button("View Executive Team Details"):
         st.session_state['page'] = 'executive_detail'
-        st.rerun()
-    if st.button("Back to Selection"):
-        st.session_state['page'] = 'home'
         st.rerun()

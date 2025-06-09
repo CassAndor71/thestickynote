@@ -3,6 +3,7 @@ from pgs.home_page import show_home_page
 from pgs.company_page import show_company_page
 from pgs.executive_detail import show_executive_detail
 import json
+st.set_page_config(layout="wide")
 
 def load_sp500_companies():
     """Load S&P 500 companies from the JSON file."""

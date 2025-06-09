@@ -11,7 +11,25 @@
         ],
         "bio": "Robert A. Iger is the Chief Executive Officer of The Walt Disney Company. He previously served as Executive Chairman from 2020 to 2022, and as Chairman and Chief Executive Officer from 2005 to 2020.",
         "role_tag": "CEO",
-        "shares": 100
+        "shares": 247647,
+        "salary": 41000000,
+        "history": [
+            {"title": "Host of Campus Probe; weatherman in Ithaca", "start": "1972", "duration": "1 year", "company": "DIS"},
+            {"title": "Studio Supervisor", "start": "1974", "duration": "2 years", "company": "ABC"},
+            {"title": "Management", "start": "1976", "duration": "8 years", "company": "ABC Sports"},
+            {"title": "VP, Program Planning & Development", "start": "1985", "duration": "2 years", "company": "ABC Sports"},
+            {"title": "Executive VP", "start": "1988", "duration": "1 year", "company": "ABC Network"},
+            {"title": "President & COO", "start": "1989", "duration": "4 years", "company": "ABC Entertainment"},
+            {"title": "President", "start": "1993", "duration": "1 year", "company": "ABC Television Network Group"},
+            {"title": "President & COO", "start": "1994", "duration": "2 years", "company": "Capital Cities/ABC"},
+            {"title": "Chairman", "start": "1996", "duration": "3 years", "company": "ABC Group"},
+            {"title": "President", "start": "1999", "duration": "1 year", "company": "Walt Disney International"},
+            {"title": "President & COO", "start": "2000", "duration": "5 years", "company": "DIS"},
+            {"title": "CEO", "start": "2005", "duration": "6 years", "company": "DIS"},
+            {"title": "Chairman of the Board and CEO", "start": "2011", "duration": "8 years", "company": "DIS"},
+            {"title": "Executive Chairman", "start": "2020", "duration": "2 years", "company": "DIS"},
+            {"title": "CEO", "start": "2022", "duration": "Ongoing", "company": "DIS"}
+        ]
     },
     "Hugh F. Johnston": {
         "title": "Chief Financial Officer",
@@ -22,7 +40,12 @@
         ],
         "bio": "Hugh F. Johnston is the Chief Financial Officer of The Walt Disney Company, overseeing the company's worldwide finance organization, including controllership, tax, treasury, corporate strategy and business development, investor relations, and enterprise controllership.",
         "role_tag": "C",
-        "shares": 100
+        "shares": 100,
+        "salary": 1500000,
+        "history": [
+            {"title": "Vice Chairman & CFO, PepsiCo", "from": "2010", "to": "2023"},
+            {"title": "SVP, Finance, PepsiCo", "from": "2005", "to": "2010"}
+        ]
     },
     "Christine M. McCarthy": {
         "title": "Chief Operating Officer",
@@ -34,7 +57,12 @@
         ],
         "bio": "Christine M. McCarthy is the Chief Operating Officer of The Walt Disney Company, responsible for the company's operations across all business segments.",
         "role_tag": "C",
-        "shares": 100
+        "shares": 100,
+        "salary": 1500000,
+        "history": [
+            {"title": "CFO, Disney", "from": "2015", "to": "2023"},
+            {"title": "EVP, Corporate Real Estate, Disney", "from": "2010", "to": "2015"}
+        ]
     },
     "Horacio Gutierrez": {
         "title": "Chief Corporate Affairs Officer & Chief Legal Officer",
@@ -49,7 +77,12 @@
         ],
         "bio": "Horacio Gutierrez serves as both Chief Legal Officer and Chief Corporate Affairs Officer, overseeing government relations, corporate communications, corporate social responsibility, and all legal matters for the company.",
         "role_tag": "C",
-        "shares": 100
+        "shares": 100,
+        "salary": 1500000,
+        "history": [
+            {"title": "General Counsel, Spotify", "from": "2016", "to": "2022"},
+            {"title": "Corporate VP & Deputy General Counsel, Microsoft", "from": "2010", "to": "2016"}
+        ]
     },
     "Sonia Coleman": {
         "title": "Chief Human Resources Officer",
@@ -61,7 +94,12 @@
         ],
         "bio": "Sonia Coleman is the Chief Human Resources Officer of The Walt Disney Company, responsible for all aspects of human resources management.",
         "role_tag": "C",
-        "shares": 100
+        "shares": 100,
+        "salary": 1500000,
+        "history": [
+            {"title": "SVP, HR, Disney", "from": "2018", "to": "2022"},
+            {"title": "VP, HR, Disney", "from": "2015", "to": "2018"}
+        ]
     },
     "Rebecca Campbell": {
         "title": "Chief Content Officer",
@@ -73,7 +111,12 @@
         ],
         "bio": "Rebecca Campbell is the Chief Content Officer of The Walt Disney Company, responsible for content strategy and operations across all platforms.",
         "role_tag": "C",
-        "shares": 100
+        "shares": 100,
+        "salary": 1500000,
+        "history": [
+            {"title": "Chairman, International Operations, Disney", "from": "2020", "to": "2022"},
+            {"title": "President, EMEA, Disney", "from": "2017", "to": "2020"}
+        ]
     },
     "Josh D'Amaro": {
         "title": "Chairman, Disney Parks, Experiences and Products",
@@ -95,7 +138,8 @@
         ],
         "bio": "Josh D'Amaro leads Disney's theme parks, resorts, cruise line, and consumer products businesses worldwide.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Alannah Hall-Smith": {
         "title": "EVP-Communications & Public Affairs",
@@ -103,7 +147,8 @@
         "direct_reports": [],
         "bio": "Alannah Hall-Smith leads communications and public affairs for Disney Parks, Experiences and Products.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Bruce E Vaughn": {
         "title": "President & Chief Creative Officer",
@@ -111,7 +156,8 @@
         "direct_reports": [],
         "bio": "Bruce E Vaughn serves as President & Chief Creative Officer for Disney Parks, Experiences and Products.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Douglas Leckie": {
         "title": "EVP - Chief Digital & Technology Officer",
@@ -119,7 +165,8 @@
         "direct_reports": [],
         "bio": "Douglas Leckie leads digital and technology initiatives for Disney Parks, Experiences and Products.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Jeffrey N Vahle": {
         "title": "President Walt Disney World Resort",
@@ -127,7 +174,8 @@
         "direct_reports": [],
         "bio": "Jeff Vahle serves as President of Walt Disney World Resort, overseeing all operations of the world's largest theme park resort.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Jill Estorino": {
         "title": "Pres & Managing Dir, Disney Parks Intl",
@@ -135,7 +183,8 @@
         "direct_reports": [],
         "bio": "Jill Estorino leads Disney Parks International, overseeing international theme park operations.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Joseph F Schott": {
         "title": "President Disney Signature Experiences",
@@ -150,7 +199,8 @@
         ],
         "bio": "Joe Schott leads Disney Signature Experiences, including Disney Cruise Line and Disney Vacation Club.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Barry Compagnoni": {
         "title": "VP-Safety, Compliance & Med Ops",
@@ -158,7 +208,8 @@
         "direct_reports": [],
         "bio": "Barry Compagnoni oversees safety, compliance, and medical operations for Disney Signature Experiences.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Brian Ruppe": {
         "title": "Director, Quality & Process Improvement",
@@ -166,7 +217,8 @@
         "direct_reports": [],
         "bio": "Brian Ruppe is Director of Quality & Process Improvement for Disney Signature Experiences.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Claire L Bilby": {
         "title": "SVP & GM-DSE Emerging Businesses",
@@ -174,7 +226,8 @@
         "direct_reports": [],
         "bio": "Claire L Bilby is SVP & GM of DSE Emerging Businesses.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Joseph Rand (Joe)": {
         "title": "SVP - Commercial Strategy",
@@ -188,7 +241,8 @@
         ],
         "bio": "Joseph Rand (Joe) is SVP of Commercial Strategy for Disney Signature Experiences.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Carrine Matson (Carrie)": {
         "title": "VP-Marketing & Distribution Strategy",
@@ -196,7 +250,8 @@
         "direct_reports": [],
         "bio": "Carrine Matson (Carrie) is VP of Marketing & Distribution Strategy.",
         "role_tag": "E",
-        "shares": 100
+        "shares": 100,
+        "salary": 1000000
     },
     "Jay S Roesch": {
         "title": "VP-Pricing, Revenue Management, Deployment & Itinerary Planning",
